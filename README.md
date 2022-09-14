@@ -1,5 +1,5 @@
-# SodiumV3
-An Old Skidded Fortnite Hybrid DLL of Mine.
+# SodiumV3 S13 Hybrid Server
+An Old Skidded Fortnite Hybrid DLL of Mine. Made for S13
 # Features 
 Client-Sided Actor Spawning including Unreleased STW Stuff (Lars Van, Storm Shield, etc) **NOTE: THEY DONT SAVE**
 <br>
